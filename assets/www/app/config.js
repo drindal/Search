@@ -1,0 +1,1 @@
+/*6a8b34d18a2f27514ff8292ce10ee5f1ab0dc497*/Ext.ns("CRMSearch.config");CRMSearch.config={host:"https://akqhtwvsa02.akquinet.de:44300/sap/zcrm_demo",mandt:"300"};
